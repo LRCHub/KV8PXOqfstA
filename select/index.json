@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "一閃",
+  "base_artist": "VESPERBELL",
+  "createdAt": "2026-02-10T02:09:55.341737Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一閃",
+      "artist": "VESPERBELL",
+      "has_synced": false,
+      "path": "select/pl_01_一閃_VESPERBELL.txt"
+    }
+  ]
+}
